@@ -1,0 +1,11 @@
+[project]
+authors = ["Trenton Dyck <trenton.dyck@abcellera.com>"]
+channels = ["conda-forge"]
+name = "pixi-vscode-imports"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+attrs = ">=25.4.0,<26"
