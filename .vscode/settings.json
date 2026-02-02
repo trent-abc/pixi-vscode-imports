@@ -1,0 +1,3 @@
+{
+    "python.defaultInterpreterPath": "/some-path/.pixi/envs/default/bin/python"
+}
